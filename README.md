@@ -12,14 +12,14 @@ Implement AWS WAF to protect a web application from common web threats (e.g., SQ
 ---
 
 ## 📁 Folder Structure
-aws-waf-project/
-│── docs/      # Architecture diagrams and project explanations
-│── infra/    # Terraform scripts for AWS infrastructure setup
-│── logs/     # Sample log files and log analysis scripts
-│── test/     # Security testing scripts and guide
-│── README.md    # Project documentation overview
-│── LICENSE     # License for open-source contributions
+###aws-waf-project/
+###│── docs/      # Architecture diagrams and project explanations
+###│── infra/    # Terraform scripts for AWS infrastructure setup
+###│── logs/     # Sample log files and log analysis scripts
+###│── test/     # Security testing scripts and guide
+###│── README.md    # Project documentation overview
+###│── LICENSE     # License for open-source contributions
 
 ## 🏗️ 1. Architecture Diagram
-docs/
-  └── aws-waf-architecture.png
+###docs/
+ ### └── aws-waf-architecture.png
